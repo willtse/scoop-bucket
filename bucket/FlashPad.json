@@ -2,9 +2,9 @@
     "homepage": "http://www.haoxg.net/tools.html",
     "version": "1.6.5",
     "license": "freeware",
-    "url": "https://haoxg.net/download/flashpad-$version.zip",
+    "url": "https://haoxg.net/download/flashpad-1.6.5.zip",
     "hash": "79d6aae5d09cb20af5cf414c94d64a6e9c94a79fbcfaaead82c8763fe36a4b1e",
-    "extract_dir": "FlashPad-$version",
+    "extract_dir": "FlashPad-1.6.5",
     "bin": "FlashPad.exe",
     "persist": [
         "config.ini",
